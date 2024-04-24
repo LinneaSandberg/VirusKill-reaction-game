@@ -1,5 +1,4 @@
-<img width="893" alt="Screenshot 2024-04-22 at 21 12 40" src="https://github.com/LinneaSandberg/VirusKill-reaction-game/assets/143714463/633c767e-8bb5-4df6-b546-5f6271e880b4"># VirusKill-reaction-game
- Reaction Rush is a thrilling real-time reaction game built with TypeScript and Socket.io on Node.js, offering fast-paced multiplayer challenges. Test your reflexes against friends or strangers worldwide in lightning-fast matchups.
+VirusKill-reaction-game is a thrilling real-time reaction game built with TypeScript and Socket.io on Node.js, offering fast-paced multiplayer challenges. Test your reflexes against friends or strangers worldwide in lightning-fast matchups.
 
 
 Getting Started
