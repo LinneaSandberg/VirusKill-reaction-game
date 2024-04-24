@@ -25,9 +25,7 @@ Navigate to the frontend directory from the root of your cloned project:
 
 Install the necessary dependencies:
 
-bash
-copy code
-npm install
+`npm install`
 
 Run the development server:
 
