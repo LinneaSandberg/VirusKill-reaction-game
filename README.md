@@ -25,7 +25,9 @@ Navigate to the frontend directory from the root of your cloned project:
 
 Install the necessary dependencies:
 
-`npm install`
+bash
+copy code
+npm install
 
 Run the development server:
 
@@ -53,10 +55,3 @@ Your backend should now be up and running.
 Feel free to reach out if you encounter any issues during setup or have any questions!
 
 
-
-
-
-
-Message ChatGPT…
-
-ChatGPT can make mistakes. Consider checking important information.
